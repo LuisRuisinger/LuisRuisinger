@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Im Luis, interested in Distributed Systems and Computer Vision.
+Im currently working on an reverse proxy and webserver, both in C. 
+Currently learning C++ and might look into Rust. 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisRuisinger&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuisinger&theme=dark&layout=compact)
+
+
 <!--
 **LuisRuisinger/LuisRuisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
