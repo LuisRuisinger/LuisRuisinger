@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Im Luis, interested in Distributed Systems and Computer Vision.
-Im currently working on an reverse proxy and webserver, both in C. 
-Currently learning C++ and might look into Rust. 
+Im Luis, interested in mostly in GPU related stuff. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisRuisinger&theme=dark&show_icons=true)
 
