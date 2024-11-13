@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Luis, interested in mostly in GPU related stuff. 
+Im Luis, interested in mostly in GPU and low-level related stuff. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisRuisinger&theme=dark&show_icons=true)
 
