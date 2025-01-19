@@ -2,8 +2,6 @@
 
 Im Luis, interested in mostly in GPU/OS/Distributed Systems related stuff. 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisRuisinger&theme=dark&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuisinger&theme=dark&layout=compact)
 
 
