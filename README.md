@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Luis, interested in mostly in low-level performance intense applications (databases/distributed systems) and operating systems
+Im Luis, interested motly in low-level performance engineering (e.g. hardware acceleration) and operating systems.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuisinger&theme=dark&layout=compact)
 
