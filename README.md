@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Luis, interested motly in low-level performance engineering (e.g. hardware acceleration) and operating systems.
+Im Luis, interested mostly in performance engineering, HPC and acceleration/hybrid-systems.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuisinger&theme=dark&layout=compact)
 
