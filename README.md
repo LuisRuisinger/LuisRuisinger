@@ -1,8 +1,4 @@
-### Hi there 👋
-
-Im Luis, interested mostly in performance engineering, HPC and acceleration/hybrid-systems.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuisinger&theme=dark&layout=compact)
+Interested mostly in performance engineering, HPC and acceleration/hybrid-systems.
 
 
 <!--
